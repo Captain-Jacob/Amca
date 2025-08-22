@@ -1,0 +1,3 @@
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\publish\ProgramKontrol.pdb
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\publish\icon.ico
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\publish\ProgramKontrol.exe

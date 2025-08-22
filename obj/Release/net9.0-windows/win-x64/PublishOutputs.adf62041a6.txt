@@ -1,0 +1,2 @@
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\publish\ProgramKontrol.pdb
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\publish\ProgramKontrol.exe

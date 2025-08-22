@@ -1,0 +1,1426 @@
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.exe
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.deps.json
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.runtimeconfig.json
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.Parser.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ExcelNumberFormat.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\RBush.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\SixLabors.Fonts.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.AppContext.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Buffers.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Console.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Core.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.Common.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Tar.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipelines.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Memory.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Mail.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Ping.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Quic.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Requests.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Security.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Sockets.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebClient.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ObjectModel.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Uri.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Reader.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Writer.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Claims.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.SecureString.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceProcess.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Json.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Channels.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Thread.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Timer.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.Local.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ValueTuple.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Linq.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\WindowsBase.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorlib.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\netstandard.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Accessibility.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.CodeDom.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Design.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.DirectoryServices.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Common.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Design.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Nrbf.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Packaging.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Windows.Core.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Permissions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clretwrc.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgc.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgcexp.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrjit.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\coreclr.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\createdump.exe
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostfxr.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostpolicy.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore_amd64_amd64_9.0.725.31616.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordbi.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorrc.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\msquic.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfo.cs
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramK.55736EB8.Up2Date
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\refint\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.genruntimeconfig.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ref\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\icon.ico
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.exe
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.deps.json
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.runtimeconfig.json
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.Parser.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ExcelNumberFormat.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\RBush.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\SixLabors.Fonts.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Management.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.AppContext.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Buffers.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Console.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Core.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.Common.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Tar.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipelines.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Memory.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Mail.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Ping.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Quic.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Requests.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Security.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Sockets.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebClient.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ObjectModel.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Uri.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Reader.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Writer.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Claims.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.SecureString.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceProcess.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Json.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Channels.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Thread.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Timer.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.Local.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ValueTuple.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Linq.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\WindowsBase.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorlib.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\netstandard.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Accessibility.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.CodeDom.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Design.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.DirectoryServices.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Common.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Design.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Nrbf.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Packaging.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Windows.Core.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Permissions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clretwrc.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgc.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgcexp.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrjit.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\coreclr.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\createdump.exe
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostfxr.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostpolicy.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore_amd64_amd64_9.0.725.31616.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordbi.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorrc.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\msquic.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfo.cs
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramK.55736EB8.Up2Date
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\refint\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.genruntimeconfig.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ref\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.exe
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.deps.json
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.runtimeconfig.json
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.Parser.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ExcelNumberFormat.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\RBush.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\SixLabors.Fonts.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Management.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.AppContext.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Buffers.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Console.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Core.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.Common.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Tar.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipelines.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Memory.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Mail.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Ping.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Quic.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Requests.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Security.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Sockets.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebClient.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ObjectModel.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Uri.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Reader.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Writer.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Claims.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.SecureString.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceProcess.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Json.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Channels.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Thread.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Timer.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.Local.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ValueTuple.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Linq.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\WindowsBase.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorlib.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\netstandard.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Accessibility.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.CodeDom.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Design.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.DirectoryServices.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Common.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Design.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Nrbf.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Packaging.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Windows.Core.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Permissions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clretwrc.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgc.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgcexp.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrjit.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\coreclr.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\createdump.exe
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostfxr.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostpolicy.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore_amd64_amd64_9.0.725.31616.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordbi.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorrc.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\msquic.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfo.cs
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramK.55736EB8.Up2Date
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\refint\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.genruntimeconfig.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ref\ProgramKontrol.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.exe
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.deps.json
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.runtimeconfig.json
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ClosedXML.Parser.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ExcelNumberFormat.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\RBush.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\SixLabors.Fonts.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Management.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.AppContext.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Buffers.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Collections.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ComponentModel.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Console.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Core.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.Common.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Data.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Tar.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Globalization.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipelines.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Linq.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Memory.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Http.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Mail.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Ping.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Quic.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Requests.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Security.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.Sockets.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebClient.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Net.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Numerics.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ObjectModel.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Uri.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Xml.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Reflection.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Reader.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Writer.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Runtime.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Claims.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Principal.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.SecureString.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ServiceProcess.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.Json.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Channels.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Thread.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.Timer.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.Local.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Transactions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.ValueTuple.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Web.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Linq.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Xml.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\WindowsBase.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorlib.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\netstandard.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Accessibility.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.CodeDom.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Design.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.DirectoryServices.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Common.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.Design.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Drawing.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Formats.Nrbf.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Packaging.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Private.Windows.Core.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Security.Permissions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clretwrc.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgc.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrgcexp.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\clrjit.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\coreclr.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\createdump.exe
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostfxr.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\hostpolicy.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordaccore_amd64_amd64_9.0.725.31616.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscordbi.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\mscorrc.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\msquic.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfo.cs
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramK.55736EB8.Up2Date
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\refint\ProgramKontrol.dll
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ProgramKontrol.genruntimeconfig.cache
+C:\Users\hph\Documents\ProgramKontrol\obj\Release\net9.0-windows\win-x64\ref\ProgramKontrol.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ProgramKontrol.exe
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ProgramKontrol.deps.json
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ProgramKontrol.runtimeconfig.json
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.AppContext.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Buffers.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Collections.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ComponentModel.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Configuration.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Console.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Core.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Data.Common.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Data.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Formats.Tar.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Globalization.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Compression.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Pipelines.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Pipes.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Linq.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Memory.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Http.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Mail.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Ping.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Quic.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Requests.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Security.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.Sockets.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.WebClient.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Net.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Numerics.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ObjectModel.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.Uri.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.Xml.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Reflection.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Resources.Reader.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Resources.Writer.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Runtime.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Claims.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Principal.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.SecureString.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ServiceProcess.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.Encoding.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.Json.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Channels.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Thread.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.Timer.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Transactions.Local.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Transactions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.ValueTuple.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Web.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.Linq.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.XPath.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Xml.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\WindowsBase.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\mscorlib.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\netstandard.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Accessibility.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.CodeDom.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Design.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.DirectoryServices.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Drawing.Common.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Drawing.Design.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Drawing.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Formats.Nrbf.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Packaging.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Private.Windows.Core.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Security.Permissions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.Windows.Forms.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\clretwrc.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\clrgc.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\clrgcexp.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\clrjit.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\coreclr.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\createdump.exe
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\hostfxr.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\hostpolicy.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\mscordaccore.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\mscordaccore_amd64_amd64_9.0.725.31616.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\mscordbi.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\mscorrc.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\msquic.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\hph\Documents\Amca\bin\Release\net9.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.AssemblyInfo.cs
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramK.55736EB8.Up2Date
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.dll
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\refint\ProgramKontrol.dll
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.pdb
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ProgramKontrol.genruntimeconfig.cache
+C:\Users\hph\Documents\Amca\obj\Release\net9.0-windows\win-x64\ref\ProgramKontrol.dll

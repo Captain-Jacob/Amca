@@ -1,0 +1,74 @@
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.exe
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.deps.json
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.runtimeconfig.json
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfo.cs
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramK.55736EB8.Up2Date
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\refint\ProgramKontrol.dll
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.genruntimeconfig.cache
+C:\Users\yakup\Documents\vsc_proje\vsc_proje\ProgramKontrol\obj\Debug\net9.0-windows\ref\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.exe
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.deps.json
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.runtimeconfig.json
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\RBush.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfo.cs
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramK.55736EB8.Up2Date
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\refint\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.genruntimeconfig.cache
+C:\Exele kontrolcü\Source code\ProgramKontrol\obj\Debug\net9.0-windows\ref\ProgramKontrol.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\System.Management.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Exele kontrolcü\Source code\ProgramKontrol\bin\Debug\net9.0-windows\icon.ico
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.exe
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.deps.json
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.runtimeconfig.json
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.AssemblyReference.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfoInputs.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.AssemblyInfo.cs
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.csproj.CoreCompileInputs.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramK.55736EB8.Up2Date
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\refint\ProgramKontrol.dll
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.pdb
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ProgramKontrol.genruntimeconfig.cache
+C:\Users\hph\Documents\BU\ProgramKontrol\obj\Debug\net9.0-windows\ref\ProgramKontrol.dll
